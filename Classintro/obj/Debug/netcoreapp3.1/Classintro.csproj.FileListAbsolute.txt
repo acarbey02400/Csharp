@@ -1,0 +1,13 @@
+C:\Users\Kullanıcı\source\repos\kampCsharp\Classintro\bin\Debug\netcoreapp3.1\Classintro.exe
+C:\Users\Kullanıcı\source\repos\kampCsharp\Classintro\bin\Debug\netcoreapp3.1\Classintro.deps.json
+C:\Users\Kullanıcı\source\repos\kampCsharp\Classintro\bin\Debug\netcoreapp3.1\Classintro.runtimeconfig.json
+C:\Users\Kullanıcı\source\repos\kampCsharp\Classintro\bin\Debug\netcoreapp3.1\Classintro.runtimeconfig.dev.json
+C:\Users\Kullanıcı\source\repos\kampCsharp\Classintro\bin\Debug\netcoreapp3.1\Classintro.dll
+C:\Users\Kullanıcı\source\repos\kampCsharp\Classintro\bin\Debug\netcoreapp3.1\Classintro.pdb
+C:\Users\Kullanıcı\source\repos\kampCsharp\Classintro\obj\Debug\netcoreapp3.1\Classintro.csprojAssemblyReference.cache
+C:\Users\Kullanıcı\source\repos\kampCsharp\Classintro\obj\Debug\netcoreapp3.1\Classintro.AssemblyInfoInputs.cache
+C:\Users\Kullanıcı\source\repos\kampCsharp\Classintro\obj\Debug\netcoreapp3.1\Classintro.AssemblyInfo.cs
+C:\Users\Kullanıcı\source\repos\kampCsharp\Classintro\obj\Debug\netcoreapp3.1\Classintro.csproj.CoreCompileInputs.cache
+C:\Users\Kullanıcı\source\repos\kampCsharp\Classintro\obj\Debug\netcoreapp3.1\Classintro.dll
+C:\Users\Kullanıcı\source\repos\kampCsharp\Classintro\obj\Debug\netcoreapp3.1\Classintro.pdb
+C:\Users\Kullanıcı\source\repos\kampCsharp\Classintro\obj\Debug\netcoreapp3.1\Classintro.genruntimeconfig.cache

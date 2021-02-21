@@ -1,0 +1,13 @@
+C:\Users\Kullanıcı\source\repos\kampCsharp\VizeHesaplama\bin\Debug\netcoreapp3.1\VizeHesaplama.exe
+C:\Users\Kullanıcı\source\repos\kampCsharp\VizeHesaplama\bin\Debug\netcoreapp3.1\VizeHesaplama.deps.json
+C:\Users\Kullanıcı\source\repos\kampCsharp\VizeHesaplama\bin\Debug\netcoreapp3.1\VizeHesaplama.runtimeconfig.json
+C:\Users\Kullanıcı\source\repos\kampCsharp\VizeHesaplama\bin\Debug\netcoreapp3.1\VizeHesaplama.runtimeconfig.dev.json
+C:\Users\Kullanıcı\source\repos\kampCsharp\VizeHesaplama\bin\Debug\netcoreapp3.1\VizeHesaplama.dll
+C:\Users\Kullanıcı\source\repos\kampCsharp\VizeHesaplama\bin\Debug\netcoreapp3.1\VizeHesaplama.pdb
+C:\Users\Kullanıcı\source\repos\kampCsharp\VizeHesaplama\obj\Debug\netcoreapp3.1\VizeHesaplama.csprojAssemblyReference.cache
+C:\Users\Kullanıcı\source\repos\kampCsharp\VizeHesaplama\obj\Debug\netcoreapp3.1\VizeHesaplama.AssemblyInfoInputs.cache
+C:\Users\Kullanıcı\source\repos\kampCsharp\VizeHesaplama\obj\Debug\netcoreapp3.1\VizeHesaplama.AssemblyInfo.cs
+C:\Users\Kullanıcı\source\repos\kampCsharp\VizeHesaplama\obj\Debug\netcoreapp3.1\VizeHesaplama.csproj.CoreCompileInputs.cache
+C:\Users\Kullanıcı\source\repos\kampCsharp\VizeHesaplama\obj\Debug\netcoreapp3.1\VizeHesaplama.dll
+C:\Users\Kullanıcı\source\repos\kampCsharp\VizeHesaplama\obj\Debug\netcoreapp3.1\VizeHesaplama.pdb
+C:\Users\Kullanıcı\source\repos\kampCsharp\VizeHesaplama\obj\Debug\netcoreapp3.1\VizeHesaplama.genruntimeconfig.cache
